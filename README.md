@@ -1,6 +1,8 @@
 <h2 align="center">Hi 👋, I'm Pol Piñol Castuera</h2>
 <h3 align="center">a graduate in mathematics and currently studying computer engineering.</h3>
 
+<br>
+
 - 🌱 I’m currently learning **Java and Phyton.**
 
 - 📫 How to reach me **polpinolcastuera@gmail.com**
