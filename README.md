@@ -3,7 +3,5 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PolPinol" alt="Top Langs" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolPinol&layout=compact&theme=default&langs_count=10" alt="Top Langs" />
 </div>
