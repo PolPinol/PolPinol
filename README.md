@@ -1,7 +1,7 @@
 <h2 align="left"> Hi! Welcome to my profile 👋 </h2>
 <h3 align="left"> Pol Piñol Castuera </h3>
 
-I am a mathematician and an aspiring software engineer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from unrelated industries.
+I am a mathematician and a software engineer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from unrelated industries.
 
 - You can reach me here: **pol.pinolcastuera@gmail.com**
 
