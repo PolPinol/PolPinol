@@ -6,9 +6,3 @@ I am a mathematician and a software engineer who enjoys connecting the dots: be 
 - You can reach me here: **pol.pinolcastuera@gmail.com**
 
 - Or visit my LinkedIn profile: <a href="https://www.linkedin.com/in/polpinol/" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Pol" height="20" width="30" /> Pol Piñol Castuera </a> 
-
-<br>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolPinol&layout=compact&theme=default&langs_count=10" alt="Top Langs" />
-</div>
